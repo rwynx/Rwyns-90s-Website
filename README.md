@@ -5,4 +5,4 @@ To check how it looks: **[Rwyn's '90s Website - Cool Preview ;;p](https://rwynrx
 
 **OR;**
 
-![Rwyns-90s-Website-Preview](https://raw.githubusercontent.com/rwynx/northstar-commands-and-audio-overriding/main/Images/rwyns-90s-website-preview.png)
+![Rwyns-90s-Website-Preview](https://raw.githubusercontent.com/rwynx/northstar-commands-and-audio-overriding/main/Images/rwyns-90s-website-preview.gif)
